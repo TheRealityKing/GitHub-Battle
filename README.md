@@ -6,3 +6,6 @@ This is the first website that I have created using the React Javascript Library
 GitHub-Battle is a purely client side SPA, this means there is no server
 rendered HTML sent to the client. This is bad for search engine optimization, but
 allows me to host Github-Battle cheap - as static website on Google Cloud. 
+
+Github-Battle uses the Github API located [here](https://developer.github.com/guides/getting-started/) 
+to get user account information.
